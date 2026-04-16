@@ -16,9 +16,14 @@ const CREDENTIALS = {
       display: "Administrator"
     },
     {
-      username: "client demo",
-      password: "demo access 1",
-      display: "Demo Client"
+      username: "Patrick Richards",
+      password: "rT4*U5xMmX",
+      display: "Patrick Richards"
+    },
+    {
+      username: "Dean Richards",
+      password: "gF^s$%p3mV",
+      display: "Dean Richards"
     }
   ]
 };
